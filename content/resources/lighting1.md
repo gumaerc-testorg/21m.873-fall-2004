@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: This resource has an image showing lightining effect.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-fall-2004-january-iap-2005/e8eef0a8b3c527cc32c538a9d69e3a37_lighting1.jpg
+file: /media/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/e8eef0a8b3c527cc32c538a9d69e3a37_lighting1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: lighting1.jpg
 uid: e8eef0a8-b3c5-27cc-32c5-38a9d69e3a37

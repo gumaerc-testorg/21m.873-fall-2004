@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Set design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-fall-2004-january-iap-2005/509b21278da70a334b9b0da62d9490ee_flrpn2346.pdf
+file: /media/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/509b21278da70a334b9b0da62d9490ee_flrpn2346.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: flrpn2346.pdf
 uid: 509b2127-8da7-0a33-4b9b-0da62d9490ee

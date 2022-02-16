@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Comment on the creative process for the project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-fall-2004-january-iap-2005/6af425c5f9f78f5e6ffec32256f69574_stage_mgr.pdf
+file: /media/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/6af425c5f9f78f5e6ffec32256f69574_stage_mgr.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: stage_mgr.pdf
 uid: 6af425c5-f9f7-8f5e-6ffe-c32256f69574

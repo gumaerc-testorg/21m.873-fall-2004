@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Sample student design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-fall-2004-january-iap-2005/1dae128b0c077eb23b79bdb2bdcfeba3_curvedwindowplan.pdf
+file: /media/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/1dae128b0c077eb23b79bdb2bdcfeba3_curvedwindowplan.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: curvedwindowplan.pdf
 uid: 1dae128b-0c07-7eb2-3b79-bdb2bdcfeba3

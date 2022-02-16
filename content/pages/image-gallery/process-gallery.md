@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 21187ca4-8962-298d-dd8c-bee3c4c60835
 title: Process Gallery
 uid: d5f4a39b-c859-bd14-5805-414005059a4a
 ---
 
 [Production Gallery]({{< baseurl >}}/pages/image-gallery/production-gallery)
-{{< image-gallery id="d5f4a39b-c859-bd14-5805-414005059a4a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-fall-2004-january-iap-2005/" >}}
+{{< image-gallery id="d5f4a39b-c859-bd14-5805-414005059a4a_nanogallery2" baseUrl="/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/" >}}
 {{< image-gallery-item href="c255d2775d1c454ec63797839307ee9c_1.jpg" data-ngdesc="Image of first production meeting with designers and director." text="Image of first production meeting with designers and director." >}}
 {{< image-gallery-item href="a9f0bc2d8bf69064514dc3393ceb6471_2.jpg" data-ngdesc="Image of first production meeting with designers and director." text="Image of first production meeting with designers and director." >}}
 {{< image-gallery-item href="d895e62b72c8342c2c1d5fc5137500c6_3.jpg" data-ngdesc="Bill Fregosi at first production meeting." text="Bill Fregosi at first production meeting." >}}
