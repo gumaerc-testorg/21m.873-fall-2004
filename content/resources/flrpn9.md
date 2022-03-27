@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Document
 title: flrpn9.pdf
 uid: 561a36a2-a7ac-56c7-a3aa-6fcdd792e403

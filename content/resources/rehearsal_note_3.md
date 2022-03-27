@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Document
 title: rehearsal_note_3.pdf
 uid: b6db6948-27d3-3ecd-7951-1296da541b13

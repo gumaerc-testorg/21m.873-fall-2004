@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Document
 title: sound_board_op.pdf
 uid: c0d73a0a-457f-13e4-6e77-e6d1aeda7654
