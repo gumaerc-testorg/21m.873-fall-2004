@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Gallery
@@ -9,7 +10,7 @@ title: Process Gallery
 uid: d5f4a39b-c859-bd14-5805-414005059a4a
 ---
 
-[Production Gallery]({{< baseurl >}}/pages/image-gallery/production-gallery)
+{{% resource_link 315260ba-8657-b09e-9068-12a48feca98d "Production Gallery" %}}
 {{< image-gallery id="d5f4a39b-c859-bd14-5805-414005059a4a_nanogallery2" baseUrl="/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/" >}}
 {{< image-gallery-item href="c255d2775d1c454ec63797839307ee9c_1.jpg" data-ngdesc="Image of first production meeting with designers and director." text="Image of first production meeting with designers and director." >}}
 {{< image-gallery-item href="a9f0bc2d8bf69064514dc3393ceb6471_2.jpg" data-ngdesc="Image of first production meeting with designers and director." text="Image of first production meeting with designers and director." >}}

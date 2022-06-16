@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Gallery
@@ -9,7 +10,7 @@ title: Production Gallery
 uid: 315260ba-8657-b09e-9068-12a48feca98d
 ---
 
-[Process Gallery]({{< baseurl >}}/pages/image-gallery/process-gallery)
+{{% resource_link d5f4a39b-c859-bd14-5805-414005059a4a "Process Gallery" %}}
 {{< image-gallery id="315260ba-8657-b09e-9068-12a48feca98d_nanogallery2" baseUrl="/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/" >}}
 {{< image-gallery-item href="df8705ed9767273a114314f92d06bb07_17.jpg" data-ngdesc="Adam Miller (Lowell) and Hui Ying Wen (Woman at Airport)." text="Adam Miller (Lowell) and Hui Ying Wen (Woman at Airport)." >}}
 {{< image-gallery-item href="4a47fa5ffcab624e4202c39dc7f48dab_18.jpg" data-ngdesc="Hui Ying Wen (Woman at Airport), Youngsun Cho (Sara) and Usman Akeju (Man at Airport)." text="Hui Ying Wen (Woman at Airport), Youngsun Cho (Sara) and Usman Akeju (Man at Airport)." >}}
