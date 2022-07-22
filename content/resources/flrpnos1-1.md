@@ -4,6 +4,7 @@ description: ''
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/af92afc52570f43bb01cbfdf161ef3fa_flrpnOS1.pdf
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

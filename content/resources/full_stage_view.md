@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: full_stage_view.jpg
 uid: dab7adb7-3b11-bef7-7911-e749c9b1581e
 ---
 This resource has an image.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lighting8.jpg
 uid: c2333e0c-8590-de3b-2e6b-5c19da22eaf0
 ---
 This resource has an image showing lightining effect.
-
