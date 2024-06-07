@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource has an image.
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/724d5e9fea3ca819087eaecdbaf88ab6_window_models.jpg
+file_size: 237859
 file_type: image/jpeg
 image_metadata:
   caption: ''

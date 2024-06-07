@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource describes about rehearsal: sets, costume, lights, sounds,
   props etc.'
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/b6db694827d33ecd79511296da541b13_rehearsal_note_3.pdf
+file_size: 15149
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

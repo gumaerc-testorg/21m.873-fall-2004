@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource has an image showing lightining effect.
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/dd0207f583687254e597feb24b7a14c9_lighting7.jpg
+file_size: 780056
 file_type: image/jpeg
 image_metadata:
   caption: ''
