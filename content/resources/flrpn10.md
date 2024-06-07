@@ -2,6 +2,7 @@
 content_type: resource
 description: Set design.
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/426014337b22dc2c16da019d2ae8d3ff_flrpn10.pdf
+file_size: 428621
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

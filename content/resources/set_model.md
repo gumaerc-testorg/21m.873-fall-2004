@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource has image for set model.
 file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/422bfcfa808536683a8b6b5e56cc9738_set_model.jpg
+file_size: 841323
 file_type: image/jpeg
 image_metadata:
   caption: ''
