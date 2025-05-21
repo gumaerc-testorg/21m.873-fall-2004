@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Comment on the creative process for the project.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/c0d73a0a457f13e46e77e6d1aeda7654_sound_board_op.pdf
+file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/c0d73a0a457f13e46e77e6d1aeda7654_sound_board_op.pdf
 file_size: 8618
 file_type: application/pdf
 learning_resource_types: []
