@@ -3,7 +3,7 @@ content_type: resource
 description: Response courtesy of Youngshun Cho. OpenCourseWare asked various members
   of this production of The Internationalist to comment on the creative process for
   this project.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/d7e878132ff9f4f7e7db0307ca0659b8_cho_commentary.pdf
+file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/d7e878132ff9f4f7e7db0307ca0659b8_cho_commentary.pdf
 file_size: 11566
 file_type: application/pdf
 learning_resource_types: []
