@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Set design.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/9c6397bd0887e680069fa42a324996ce_deskplandimens.pdf
+file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/9c6397bd0887e680069fa42a324996ce_deskplandimens.pdf
 file_size: 28456
 file_type: application/pdf
 learning_resource_types: []
