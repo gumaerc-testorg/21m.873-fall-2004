@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/d83af81c6a5fb074b84c62b621f4f969_tabledimensions.jpg
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/d83af81c6a5fb074b84c62b621f4f969_tabledimensions.jpg
 file_size: 156396
 file_type: image/jpeg
 image_metadata:
