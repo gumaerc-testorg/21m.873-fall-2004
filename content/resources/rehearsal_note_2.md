@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource describes about rehearsal: set design, lights, sounds,
   props etc.'
-file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/e302e9826bad6c16a2348504388d12ae_rehearsal_note_2.pdf
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/e302e9826bad6c16a2348504388d12ae_rehearsal_note_2.pdf
 file_size: 15354
 file_type: application/pdf
 learning_resource_types: []
